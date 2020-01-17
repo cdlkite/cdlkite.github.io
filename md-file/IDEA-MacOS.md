@@ -1,0 +1,1 @@
+command + 7 打开一个类的方法 类似 eclipse outline
